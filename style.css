@@ -44,13 +44,11 @@
 .pluses-title {
     text-align: center;
 }
-
 .pluses-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-
 .pluses-list-item {
     width: 50%;
 }
